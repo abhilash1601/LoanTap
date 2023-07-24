@@ -1,1 +1,4 @@
 # LoanTap
+
+
+In this project, we analyzed LoanTap's dataset to build a predictive model using logistic regression for determining the creditworthiness of loan applicants for Personal Loans. The dataset included attributes like loan amount, interest rate, employment details, annual income, and loan status. We conducted exploratory data analysis, performed feature engineering, treated missing values and outliers, and prepared the data for modeling. Using logistic regression, we evaluated the model's performance with ROC AUC and precision-recall curves, and discussed tradeoff questions related to minimizing false positives and NPA risks. The insights gained from this analysis led to valuable business recommendations for LoanTap to optimize their underwriting process and make informed lending decisions.
